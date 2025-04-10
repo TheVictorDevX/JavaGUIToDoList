@@ -10,4 +10,3 @@ You can add tasks, delete them, and mark them as completed with checkboxes.
 - ➕ Add new tasks
 - ❌ Delete selected tasks
 - ☑️ Check off completed tasks
-- 🔁 Live updates using JavaFX property binding
